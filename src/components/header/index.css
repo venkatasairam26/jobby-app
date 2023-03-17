@@ -1,0 +1,23 @@
+.header-cont {
+  background-color: #272727;
+
+  padding-right: 15px;
+  padding-left: 15px;
+  margin: 0px;
+}
+.header-list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6px;
+  list-style-type: none;
+  margin: 0px;
+}
+.btns-cont {
+  display: flex;
+  list-style-type: none;
+}
+.link-item {
+  color: #ffffff;
+  margin-right: 15px;
+}
